@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Team B",
+        "building": 1
+    },
+    {
+        "name": "Team C",
+        "building": 1
+    },
+    {
+        "name": "Team D",
+        "building": 1
+    },
+    {
+        "name": "Team E",
+        "building": 1
+    },
+    {
+        "name": "Team F",
+        "building": 1
+    },
+    {
+        "name": "Team G",
+        "building": 2
+    },
+    {
+        "name": "Team H",
+        "building": 2
+    },
+    {
+        "name": "Team I",
+        "building": 2
+    },
+    {
+        "name": "Team J",
+        "building": 2
+    },
+    {
+        "name": "Team K",
+        "building": 2
+    },
+    {
+        "name": "Team L",
+        "building": 3
+    },
+    {
+        "name": "Team M",
+        "building": 3
+    },
+    {
+        "name": "Team N",
+        "building": 3
+    },
+    {
+        "name": "Team O",
+        "building": 3
+    },
+    {
+        "name": "Team P",
+        "building": 3
+    },
+    {
+        "name": "Team Q",
+        "building": 4
+    },
+    {
+        "name": "Team R",
+        "building": 4
+    },
+    {
+        "name": "Team S",
+        "building": 4
+    },
+    {
+        "name": "Team T",
+        "building": 4
+    },
+    {
+        "name": "Team U",
+        "building": 4
+    },
+    {
+        "name": "Team V",
+        "building": 5
+    },
+    {
+        "name": "Team W",
+        "building": 5
+    },
+    {
+        "name": "Team X",
+        "building": 5
+    },
+    {
+        "name": "Team Y",
+        "building": 5
+    },
+    {
+        "name": "Team Z",
+        "building": 5
+    }
+]
