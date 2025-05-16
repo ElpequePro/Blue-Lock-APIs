@@ -1,0 +1,19 @@
+[
+    {
+        "fullName": "Lionel Messi",
+        "name": "Lionel",
+        "surname": "Messi",
+        "age": null,
+        "birthday": "",
+        "country": "Argentina",
+        "height": null,
+        "weight": null,
+        "position": "",
+        "club": "",
+        "weapons": [
+            "Dribbling",
+            "Shooting"
+        ],
+        "number": 10
+    }
+]
