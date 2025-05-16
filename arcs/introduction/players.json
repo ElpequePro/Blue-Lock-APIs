@@ -4,8 +4,6 @@
         "name": "Yoichi",
         "surname": "Isagi",
         "age": 16,
-        "birthday": "1 April",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -15,8 +13,6 @@
         "name": "Ryosuke",
         "surname": "Kira",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -26,8 +22,6 @@
         "name": "Gurimu",
         "surname": "Igarashi",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -37,8 +31,6 @@
         "name": "Rensuke",
         "surname": "Kunigami",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -48,8 +40,6 @@
         "name": "Meguru",
         "surname": "Bachira",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -59,8 +49,6 @@
         "name": "Wataru",
         "surname": "Kuon",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -70,8 +58,6 @@
         "name": "Jingo",
         "surname": "Raichi",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -81,8 +67,6 @@
         "name": "Yudai",
         "surname": "Imamura",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -92,8 +76,6 @@
         "name": "Okuhito",
         "surname": "Iemon",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -103,8 +85,6 @@
         "name": "Asahi",
         "surname": "Naruhaya",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -114,8 +94,6 @@
         "name": "Gin",
         "surname": "Gagamaru",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
@@ -125,8 +103,6 @@
         "name": "Hyoma",
         "surname": "Chigiri",
         "age": null,
-        "birthday": "",
-        "country": "Japan",
         "height": null,
         "weight": null,
         "team": "Team Z"
